@@ -6,7 +6,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 Introduction :-
 
-Bike sharing demand analysis involves studying the factors that impact the usage of bike-sharing services and predict the demand for bikes across different times and locations. By diving into historical data, we aim to Understand Usage Patterns, Predict Future Demand and Identify Influential Factors.
+Bike sharing analysis involves studying the factors that impact the usage of bike-sharing services and predict the demand for bikes across different times and locations. By diving into historical data, we aim to Understand Usage Patterns, Predict Future Demand and Identify Influential Factors.
 
 
 About the company
